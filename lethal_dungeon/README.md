@@ -1,2 +1,2 @@
-# Note:
-I hold NO responsibility for that of which is created from my code
+# lethal dungeon
+this mod is in no way asosiated with the game lethal company
