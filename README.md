@@ -1,7 +1,2 @@
-# ADVR Mods
- a list of my Ancient Dungeon VR mods free for install
-
-
-
-# Note:
-I hold NO responsibility for that of which is created from my code
+# Lethal Dungeon
+this mod is in no way asosiated with the game lethal company
