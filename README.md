@@ -1,2 +1,2 @@
-# Lethal Dungeon
-this mod is in no way asosiated with the game lethal company
+# Progress Tool
+this mod is for getting back any progress you may have lost, this is not intended for cheating but i cant really stop you
